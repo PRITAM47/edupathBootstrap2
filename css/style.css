@@ -202,7 +202,7 @@ textarea {
   }
 
   header ul {
-    width: 100%;
+    width: 300px;
   }
 
   .my-navbar-nav1 {
@@ -229,23 +229,24 @@ textarea {
   }
 
   .right-section h2 {
-    width: 20em;
-    font-size: 1.7em;
+    width: 10em;
+    font-size: 1.1em;
     /*font-weight: 600;*/
     margin-top: 11em;
-    margin-left: -1.2em;
+    margin-left: -1.3em;
     /*word-spacing: 0.2rem;*/
   }
 
   #right-head {
     font-size: 1.2em;
-    margin-left: -1em;
+    margin-left: -2em;
     margin-top: 0em;
   }
 
   .left-section {
     margin-left: 5em;
     width: 100%;
+    font-size: 0.8em;
   }
 
   .card img {
